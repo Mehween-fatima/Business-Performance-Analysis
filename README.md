@@ -103,7 +103,7 @@ Use seasonal patterns for demand forecasting.
 Power BI Dashboard:
 👉 https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Screenshot%202026-01-14%20045527.png
 👉https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Screenshot%202026-01-14%20045654.png
-👉
+👉https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Screenshot%202026-01-14%20045720.png
 
 Dataset:
 👉 Data/Superstore_Data.csv
