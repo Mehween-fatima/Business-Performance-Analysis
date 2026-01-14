@@ -109,6 +109,8 @@ Dataset:
 SQL Queries:
 👉 SQL_Queries/retail_analysis.sql
 
+REPORT:
+👉 https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Business-Performance-Analysis-Report.pdf
 
 
 
