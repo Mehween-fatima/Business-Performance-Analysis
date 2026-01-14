@@ -60,7 +60,7 @@ Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
 ## 🔗 Resources
 
 - **Power BI Dashboard**: https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Screenshot%202026-01-14%20045527.png
-- **Dataset**: `Data/Superstore_Data.csv`
+- **Dataset**: https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/US%20Superstore%20data.xls
 - **SQL Queries**: https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Retail_Business_Analysis%20(2).ipynb
 - **Project Report**: https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Business-Performance-Analysis-Report.pdf
 
