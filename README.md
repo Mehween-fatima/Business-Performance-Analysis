@@ -101,7 +101,9 @@ Use seasonal patterns for demand forecasting.
 🔗 Project Resources
 
 Power BI Dashboard:
-👉 Dashboard/Retail_Sales_Dashboard.pbix
+👉 https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Screenshot%202026-01-14%20045527.png
+👉
+👉
 
 Dataset:
 👉 Data/Superstore_Data.csv
