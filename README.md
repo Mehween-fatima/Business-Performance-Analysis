@@ -107,7 +107,7 @@ Dataset:
 👉 Data/Superstore_Data.csv
 
 SQL Queries:
-👉 SQL_Queries/retail_analysis.sql
+👉 https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Retail_Business_Analysis%20(2).ipynb
 
 REPORT:
 👉 https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Business-Performance-Analysis-Report.pdf
