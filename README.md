@@ -6,7 +6,7 @@
 📊 Retail Sales Analysis | Power BI, Excel, SQL
 📌 Project Overview
 
-This project focuses on analyzing retail sales data to uncover revenue trends, profit drivers, underperforming areas, and actionable business insights.
+**This project focuses on analyzing retail sales data to uncover revenue trends, profit drivers, underperforming areas, and actionable business insights.
 The analysis combines Excel (Pivot Tables), SQL, and Power BI to deliver an interactive, business-ready dashboard supported by a structured analytical report.
 🎯 Business Objectives
 
