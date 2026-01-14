@@ -10,93 +10,92 @@
 The analysis combines Excel (Pivot Tables), SQL, and Power BI to deliver an interactive, business-ready dashboard supported by a structured analytical report.
 🎯 Business Objectives
 
-Identify top and bottom performing products
+•Identify top and bottom performing products
 
-Analyze profit margins across categories and regions
+•Analyze profit margins across categories and regions
 
-Detect underperforming states and segments
+•Detect underperforming states and segments
 
-Track sales trends over time
+•Track sales trends over time
 
-Enable data-driven decision making
+•Enable data-driven decision making
 
 🧰 Tools & Technologies
 
-Excel – Data cleaning, Pivot Tables, calculated fields
+•Excel – Data cleaning, Pivot Tables, calculated fields
 
-SQL (SQLite / MySQL) – Aggregations, CASE statements, window functions
+•SQL (SQLite / MySQL) – Aggregations, CASE statements, window functions
 
-Power BI – Interactive dashboards, DAX measures
+•Power BI – Interactive dashboards, DAX measures
 
-Python (Pandas) – Exploratory data analysis (Jupyter Notebook)
+•Python (Pandas) – Exploratory data analysis (Jupyter Notebook)
 
-Gamma AI – Project documentation and reporting
+•Gamma AI – Project documentation and reporting
+
 📊 Power BI Dashboard Highlights
 
-The Power BI dashboard provides a comprehensive overview of retail performance:
+•The Power BI dashboard provides a comprehensive overview of retail performance:
 
-Total Sales, Total Profit, Profit Margin (%)
+•Total Sales, Total Profit, Profit Margin (%)
 
-Top 5 Profit-Making Products
+•Top 5 Profit-Making Products
 
-Underperforming States and Categories
+•Underperforming States and Categories
 
-Monthly Sales Trend Analysis
-📸 Dashboard Visuals
-links ss
+•Monthly Sales Trend Analysis
 
 📋 Excel Analysis
 
-Pivot Tables created for:
+•Pivot Tables created for:
 
-Sales by Category and Region
+•Sales by Category and Region
 
-Profit by Product
+•Profit by Product
 
-Monthly Sales Trends
+•Monthly Sales Trends
 
-Calculated Fields:
+•Calculated Fields:
 
-Profit Margin %
+•Profit Margin %
 
-Used as a validation layer prior to Power BI modeling
+•Used as a validation layer prior to Power BI modeling
 
 📑 Project Report
 
-A detailed project report is included covering:
+•A detailed project report is included covering:
 
-Problem statement
+•Problem statement
 
-Methodology
+•Methodology
 
-KPI definitions
+•KPI definitions
 
-Dashboard interpretation
+•Dashboard interpretation
 
-Business insights and recommendations
+•Business insights and recommendations
 
 📄 Report:
 ➡️ Report/Retail_Sales_Analysis_Report.pdf
 
 💡 Key Business Insights
 
-A limited number of products contribute significantly to overall profit.
+•A limited number of products contribute significantly to overall profit.
 
-Some states generate high sales but low or negative profit, indicating pricing or cost inefficiencies.
+•Some states generate high sales but low or negative profit, indicating pricing or cost inefficiencies.
 
-Excessive discounting negatively impacts profit margins.
+•Excessive discounting negatively impacts profit margins.
 
-Sales show noticeable seasonal trends useful for forecasting.
+•Sales show noticeable seasonal trends useful for forecasting.
 
 📌 Business Recommendations
 
-Prioritize high-margin products in marketing and inventory planning.
+•Prioritize high-margin products in marketing and inventory planning.
 
-Reassess pricing and logistics in loss-making regions.
+•Reassess pricing and logistics in loss-making regions.
 
-Control discount strategies for low-margin categories.
+•Control discount strategies for low-margin categories.
 
-Use seasonal patterns for demand forecasting.
+•Use seasonal patterns for demand forecasting.
 
 🔗 Project Resources
 
