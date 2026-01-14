@@ -1,118 +1,102 @@
-# Business Performance Analysis
+# Retail Sales Analysis | Power BI • SQL • Excel
 
-**Author:** Mehween Fatima  
-**Date:** January 2026  
+## 📌 Overview  
+This repository contains a full retail business performance analysis using a combination of Power BI, SQL, Excel, and Python. The project uncovers key sales and profitability insights for data-driven decision-making.
 
-📊 Retail Sales Analysis | Power BI, Excel, SQL
-📌 Project Overview
+---
 
-**This project focuses on analyzing retail sales data to uncover revenue trends, profit drivers, underperforming areas, and actionable business insights.
-The analysis combines Excel (Pivot Tables), SQL, and Power BI to deliver an interactive, business-ready dashboard supported by a structured analytical report.
-🎯 Business Objectives
+## 🧰 Tools & Techniques
+- **Power BI** – Interactive dashboard & DAX measures  
+- **SQL** – Advanced analysis (aggregations, window functions, subqueries)  
+- **Excel** – Data cleaning and PivotTable analysis  
+- **Python** – Exploratory data analysis (Jupyter Notebook)  
+- **Gamma AI** – Report documentation
 
-•Identify top and bottom performing products
+---
 
-•Analyze profit margins across categories and regions
+## 📁 Repository Structure
 
-•Detect underperforming states and segments
+```
+Business-Performance-Analysis/
+│
+├── README.md
+├── Dashboard/
+│   ├── Retail_Sales_Dashboard.pbix
+│   ├── dashboard_overview.png
+│   ├── kpis.png
+│   ├── top_5_products.png
+│
+├── Report/
+│   └── Retail_Sales_Analysis_Report.pdf
+│
+├── Data/
+│   └── Superstore_Data.csv
+│
+└── SQL_Queries/
+    └── retail_analysis.sql
+```
 
-•Track sales trends over time
+---
 
-•Enable data-driven decision making
+## 📊 Dashboard Highlights
 
-🧰 Tools & Technologies
+### KPI Summary
+https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Screenshot%202026-01-14%20045654.png
 
-•Excel – Data cleaning, Pivot Tables, calculated fields
+### Overall Dashboard
+https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Screenshot%202026-01-14%20045527.png
 
-•SQL (SQLite / MySQL) – Aggregations, CASE statements, window functions
+### Top 5 Products by Profit
+https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Screenshot%202026-01-14%20045720.png
 
-•Power BI – Interactive dashboards, DAX measures
 
-•Python (Pandas) – Exploratory data analysis (Jupyter Notebook)
+---
 
-•Gamma AI – Project documentation and reporting
+## 📈 Key Insights
 
-📊 Power BI Dashboard Highlights
+- Strong sales do not always translate to high profit across categories.
+- Some states show high revenue but low or negative profit, indicating pricing or cost issues.
+- High discount levels correlate with reduced profit margins.
+- Seasonal trends in sales can guide future planning.
 
-•The Power BI dashboard provides a comprehensive overview of retail performance:
+---
 
-•Total Sales, Total Profit, Profit Margin (%)
+## 📌 Business Recommendations
 
-•Top 5 Profit-Making Products
+- Focus marketing and inventory on high-margin products.
+- Reassess pricing strategy for low-profit regions.
+- Reduce excessive discounts on low profitability categories.
+- Use seasonal trends to plan promotions and stock.
 
-•Underperforming States and Categories
+---
 
-•Monthly Sales Trend Analysis
+## 🧮 Example DAX Measures
 
-📋 Excel Analysis
+```DAX
+Total Sales = SUM(Orders[Sales])
 
-•Pivot Tables created for:
+Total Profit = SUM(Orders[Profit])
 
-•Sales by Category and Region
+Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
+```
 
-•Profit by Product
+---
 
-•Monthly Sales Trends
+## 🔗 Resources
 
-•Calculated Fields:
+- **Power BI Dashboard**: `Dashboard/Retail_Sales_Dashboard.pbix`
+- **Dataset**: `Data/Superstore_Data.csv`
+- **SQL Queries**: https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Retail_Business_Analysis%20(2).ipynb
+- **Project Report**: https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Business-Performance-Analysis-Report.pdf
 
-•Profit Margin %
+---
 
-•Used as a validation layer prior to Power BI modeling
+## 👤 Author
 
-📑 Project Report
-
-•A detailed project report is included covering:
-
-•Problem statement
-
-•Methodology
-
-•KPI definitions
-
-•Dashboard interpretation
-
-•Business insights and recommendations
-
-📄 Report:
-➡️ Report/Retail_Sales_Analysis_Report.pdf
-
-💡 Key Business Insights
-
-•A limited number of products contribute significantly to overall profit.
-
-•Some states generate high sales but low or negative profit, indicating pricing or cost inefficiencies.
-
-•Excessive discounting negatively impacts profit margins.
-
-•Sales show noticeable seasonal trends useful for forecasting.
-
-📌 Business Recommendations
-
-•Prioritize high-margin products in marketing and inventory planning.
-
-•Reassess pricing and logistics in loss-making regions.
-
-•Control discount strategies for low-margin categories.
-
-•Use seasonal patterns for demand forecasting.
-
-🔗 Project Resources
-
-Power BI Dashboard:
-👉 https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Screenshot%202026-01-14%20045527.png
-👉https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Screenshot%202026-01-14%20045654.png
-👉https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Screenshot%202026-01-14%20045720.png
-
-Dataset:
-👉 Data/Superstore_Data.csv
-
-SQL Queries:
-👉 https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Retail_Business_Analysis%20(2).ipynb
-
-REPORT:
-👉 https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Business-Performance-Analysis-Report.pdf
+**Mehween Fatima**  
+Aspiring Data Analyst  
+LinkedIn: https://www.linkedin.com/in/mehween-fatima-1955673a1  
+GitHub: https://github.com/Mehween-fatima
 
 
 
-\\
