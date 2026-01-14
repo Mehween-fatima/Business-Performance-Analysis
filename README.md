@@ -12,31 +12,6 @@ This repository contains a full retail business performance analysis using a com
 - **Python** – Exploratory data analysis (Jupyter Notebook)  
 - **Gamma AI** – Report documentation
 
----
-
-## 📁 Repository Structure
-
-```
-Business-Performance-Analysis/
-│
-├── README.md
-├── Dashboard/
-│   ├── Retail_Sales_Dashboard.pbix
-│   ├── dashboard_overview.png
-│   ├── kpis.png
-│   ├── top_5_products.png
-│
-├── Report/
-│   └── Retail_Sales_Analysis_Report.pdf
-│
-├── Data/
-│   └── Superstore_Data.csv
-│
-└── SQL_Queries/
-    └── retail_analysis.sql
-```
-
----
 
 ## 📊 Dashboard Highlights
 
@@ -84,7 +59,7 @@ Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
 
 ## 🔗 Resources
 
-- **Power BI Dashboard**: `Dashboard/Retail_Sales_Dashboard.pbix`
+- **Power BI Dashboard**: https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Screenshot%202026-01-14%20045527.png
 - **Dataset**: `Data/Superstore_Data.csv`
 - **SQL Queries**: https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Retail_Business_Analysis%20(2).ipynb
 - **Project Report**: https://github.com/Mehween-fatima/Business-Performance-Analysis/blob/main/Business-Performance-Analysis-Report.pdf
